@@ -12,7 +12,7 @@
 - left, right, jump
 - collect all the fruit in each stage and go to checkpoint
 
-- [https://raw.githubusercontent.com/ttangt/FruitAdventure/master/STAGE%201.png](STAGE 1)
+- [STAGE]([STAGE 1](https://raw.githubusercontent.com/ttangt/FruitAdventure/master/STAGE%201.png))
 
 ## Reference
 
