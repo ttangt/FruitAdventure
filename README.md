@@ -12,6 +12,8 @@
 - left, right, jump
 - collect all the fruit in each stage and go to checkpoint
 
+- [https://raw.githubusercontent.com/ttangt/FruitAdventure/master/STAGE%201.png](STAGE 1)
+
 ## Reference
 
 - [Unity Login System with Firebase Authentication](https://www.youtube.com/watch?v=V143hJru1-g)
