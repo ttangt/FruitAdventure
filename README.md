@@ -1,5 +1,17 @@
 # FruitAdventure
 
+*Download the apk file for the game*
+
+## Requirement
+
+- Android
+- 2280 x 1080 resolution
+
+## Tutorial
+
+- left, right, jump
+- collect all the fruit in each stage and go to checkpoint
+
 ## Reference
 
 - [Unity Login System with Firebase Authentication](https://www.youtube.com/watch?v=V143hJru1-g)
