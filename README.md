@@ -2,6 +2,10 @@
 
 *Download the apk file for the game*
 
+## Instruction
+
+We build a 2D platform game by using Unity. Player signs up by email and control the character to collect all the fruits and avoid the damaging in each stage and go to the check point. This app is for entertainment only.
+
 ## Requirement
 
 - Android
